@@ -17,10 +17,7 @@ All content for this namespace is available in the [[https://github.com/Door43/d
 
 [[http://www.ethnologue.com/language/mcf|Ethnologue data]]
 
-
 **Resources**
 
   * [[mcf:obs|Open Bible Stories (mcf)]]
 
-**Latest OBS Status**
-{{page>en:uwadmin:mcf:obs:status}}
